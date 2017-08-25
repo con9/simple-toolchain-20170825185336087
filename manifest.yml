@@ -1,4 +1,4 @@
 applications:
-- name: node-hello-world
+- name: simple-toolchain-20170825185336087
   memory: 128M
   buildpack: sdk-for-nodejs
